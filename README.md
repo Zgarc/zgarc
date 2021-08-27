@@ -7,7 +7,7 @@
 * [Tasks](#tasks)
 * [Email](#email)
 
-## about Me
+## about me
 
 Hello World, I am Zachary Garcia
 
