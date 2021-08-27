@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Zack!
 
-<p align='center'><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Paw-print.svg" alt="TheAbbie" width="100" height="100"></p>
-
-[![Rate on Openbase](https://badges.openbase.io/js/rating/theabbie.svg)](https://openbase.io/js/theabbie?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
+<p align='left'><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Paw-print.svg" alt="TheAbbie" width="100" height="100"></p>
 
 * [About Me](#about-me)
 * [My Octocat](#my-octocat)
