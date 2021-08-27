@@ -15,7 +15,6 @@ A gym-a-holic, a web developer, and a dog dad.
 
 
 <table>
-<caption>Zachary Garcia</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
