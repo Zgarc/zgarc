@@ -45,7 +45,6 @@ https://bestcodepractices.com/
 
 <ul>
 <li><a href="mailto:zgarc025@gmail.com" rel="me">Mail</a>
-<li>Call</li>
 </li>
 </ul>
 
