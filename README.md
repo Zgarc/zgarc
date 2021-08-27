@@ -23,7 +23,7 @@ A gym-a-holic, a web developer, and a dog dad.
 <tbody>
 <tr><th scope='row'>Name</th><td>Zachary Garcia</td></tr>
 <tr><th scope='row'>Education</th><td>Florida International University BS in Computer Science</td></tr>
-<tr><th scope='row'>Nationality</th><td>American</td></tr>
+<tr><th scope='row'>Nationality</th><td>First-generation Cuban American</td></tr>
 <tr><th scope='row'>Occupation</th><td>Full Stack Software Engineer</td></tr>
 <tr><th scope='row'>Skills</th><td>PHP, Java, JS</td></tr>
 </tbody>
